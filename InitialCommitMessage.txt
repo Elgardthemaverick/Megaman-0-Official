@@ -1,0 +1,3 @@
+Hello! This is the inital commit of the dev team for the MegaMan Zero fan game.
+We plan to create an enjoyable and original game experience while maintaining
+a classic MegaMan feel.
