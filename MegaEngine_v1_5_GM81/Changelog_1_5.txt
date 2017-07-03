@@ -1,4 +1,0 @@
--Fixed several Rush Jet-related collision problems
--Rush Jet is now jumpthrough like in the original games
--Fixed a bug where in the GM Studio version, Picketmen would crash the game upon throwing their pickets when Mega Man died
--Improved jumpthrough moving platform collision flexibility
